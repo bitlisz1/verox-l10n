@@ -442,6 +442,8 @@
     },
     "INTEGRATIONS": {
         "INTRO_TEXT": "API tokens let other software, such as Home Assistant or your own scripts, control {{.constants.GLOBAL_PROD_NAME}} over your network.",
+        "API_LEVEL": "This device has API level",
+        "API_DOCS": "What each level offers",
         "LOGIN_REQUIRED": "API tokens only work while the web page is protected with a password. Set one on the Advanced page first.",
         "TOKENS": "Tokens",
         "NO_TOKENS": "No tokens yet.",
