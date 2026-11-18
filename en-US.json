@@ -12,7 +12,8 @@
         "ADVANCED": "Advanced",
         "SERVICES": "Services",
         "INFORMATION": "Information",
-        "DEVICES": "Devices"
+        "DEVICES": "Devices",
+        "INTEGRATIONS": "Integrations"
     },
     "GENERAL": {
         "BUTTON_APPLY": "Apply",
@@ -189,7 +190,8 @@
         "AUTH_ERROR_REQUIRED": "Choose a password to turn on protection. Nothing was changed.",
         "AUTH_ERROR_FAILED": "The password could not be saved. Nothing was changed.",
         "WEB_CURRENT_PASSWORD_TO_DISABLE": "Enter your current password to turn protection off",
-        "WEB_CURRENT_PASSWORD_TO_CHANGE": "Enter your current password to change it"
+        "WEB_CURRENT_PASSWORD_TO_CHANGE": "Enter your current password to change it",
+        "WEB_AUTH_OFF_REMOVES_TOKENS": "This also removes your API tokens ({n}): integrations that use them stop working."
     },
     "INFO": {
         "INTRO_TEXT": "This section shows information about {{.constants.GLOBAL_PROD_NAME}}.",
@@ -437,5 +439,37 @@
         "NAME_PLACEHOLDER": "Only letters and numbers are allowed.",
         "BUTTON_SCAN": "SCAN",
         "UPNP_RENDERER_NONE": "NONE"
+    },
+    "INTEGRATIONS": {
+        "INTRO_TEXT": "API tokens let other software, such as Home Assistant or your own scripts, control {{.constants.GLOBAL_PROD_NAME}} over your network.",
+        "LOGIN_REQUIRED": "API tokens only work while the web page is protected with a password. Set one on the Advanced page first.",
+        "TOKENS": "Tokens",
+        "NO_TOKENS": "No tokens yet.",
+        "ERROR_LIST": "The tokens could not be loaded.",
+        "COLUMN_NAME": "Name",
+        "COLUMN_TOKEN": "Token",
+        "COLUMN_ACCESS": "Access",
+        "COLUMN_CREATED": "Created",
+        "COLUMN_LAST_USED": "Last used",
+        "NEVER_USED": "Never",
+        "TOKEN_NAME": "Name",
+        "HELP_TOKEN_NAME": "A name to recognise the token by, such as the integration that uses it.",
+        "TOKEN_NAME_PLACEHOLDER": "e.g. Home Assistant",
+        "ADMIN_ACCESS": "A new token gets admin access, which for now lets it restart this device.",
+        "BUTTON_CREATE": "Create token",
+        "NEW_TOKEN": "Your new token",
+        "NEW_TOKEN_ONCE": "Copy it now and keep it somewhere safe: it won't be shown again.",
+        "BUTTON_COPY": "Copy",
+        "COPIED": "Copied",
+        "BUTTON_REVOKE": "Revoke",
+        "REVOKE_TITLE": "Revoke token",
+        "REVOKE_CONFIRM": "Anything that uses this token stops working straight away.",
+        "HOW_TO_USE": "How to use a token",
+        "HOW_TO_USE_TEXT": "Send it in the Authorization header of a request to the API on port 8080. For example, to restart this device:",
+        "PLAIN_HTTP": "The token travels unencrypted, so only use it on a network you trust.",
+        "ERROR_NAME": "Give the token a name of at most 64 characters. Nothing was created.",
+        "ERROR_TOO_MANY": "This device already has the maximum of 20 tokens. Revoke one first.",
+        "ERROR_LOGIN_OFF": "The web page isn't protected with a password any more, so no token was created.",
+        "ERROR_FAILED": "Something went wrong. Nothing was changed."
     }
 }
