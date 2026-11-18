@@ -95,8 +95,7 @@
         "ROON_ZONE": "Roon-zone til fjernbetjening",
         "HELP_ROON_ZONE": "Den Roon-zone, som fjernbetjeningen styrer. Sørg for at skrive den, *præcis* som den hedder i Roon.",
         "FOLLOW_ZONE": "Følg skærmens zone",
-        "HELP_FOLLOW_ZONE": "Vælg for at 'følge' den zone, der er valgt på skærmen.",
-        "WARNING_EXTENSION": "Sørg for at aktivere og parre {{.constants.GLOBAL_PROD_NAME}}-udvidelsen i Roon!"
+        "HELP_FOLLOW_ZONE": "Vælg for at 'følge' den zone, der er valgt på skærmen."
     },
     "ADVANCED": {
         "INTRO_TEXT": "Dette afsnit indeholder avancerede indstillinger. Ændr dem kun, hvis du ved præcis, hvad du gør!",

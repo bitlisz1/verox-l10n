@@ -98,8 +98,7 @@
         "ROON_ZONE": "Strefa Roon",
         "HELP_ROON_ZONE": "Wybierz strefę Roon, którą chcesz sterować za pomocą pilota. Wpisz jej nazwę dokładnie tak, jak w ustawieniach Roon.",
         "FOLLOW_ZONE": "Strefa Wyświetlacza",
-        "HELP_FOLLOW_ZONE": "Wybierz tę opcję, aby ustawić taką samą strefę jak w wyświetlaczu.",
-        "WARNING_EXTENSION": "Upewnij się, że rozszerzenie {{.constants.GLOBAL_PROD_NAME}} jest włączone i sparowane w ustawieniach rozszerzeń Roon!"       
+        "HELP_FOLLOW_ZONE": "Wybierz tę opcję, aby ustawić taką samą strefę jak w wyświetlaczu."
     },
     "ADVANCED": {
         "INTRO_TEXT": "Sekcja zawiera ustawienia zaawansowane. Zmieniaj je tylko wtedy, gdy dokładnie wiesz co robisz!",

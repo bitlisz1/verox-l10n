@@ -130,7 +130,7 @@
         "HELP_ROON_ZONE": "Which Roon Zone should the remote control. Make sure you type it *exactly* as known in Roon.",
         "FOLLOW_ZONE": "Follow Display Zone",
         "HELP_FOLLOW_ZONE": "Select to 'follow' the zone selected on the display.",
-        "WARNING_EXTENSION": "Please make sure you enable and pair the {{.constants.GLOBAL_PROD_NAME}} extension in Roon!"
+        "EXTENSION_HINT": "In Roon, enable the {{.constants.GLOBAL_PROD_NAME}} Remote Control extension for this device under Settings → Extensions."
     },
     "ADVANCED": {
         "INTRO_TEXT": "This section contains advanced settings. Only change them if you know exactly what you're doing!",

@@ -92,8 +92,7 @@
         "ROON_ZONE": "Roon Control Zone",
         "HELP_ROON_ZONE": "Welke Roon Zone moet de afstandsbediening volgen. Zorg ervoor dat u deze *precies* zo invoert als deze in Roon bekend is.",
         "FOLLOW_ZONE": "Volg Display Zone",
-        "HELP_FOLLOW_ZONE": "Selecteer deze optie om de op het display geselecteerde zone te ‘volgen’.",
-        "WARNING_EXTENSION": "Zorg ervoor dat u de RoPieee-extensie in Roon inschakelt en koppelt!"
+        "HELP_FOLLOW_ZONE": "Selecteer deze optie om de op het display geselecteerde zone te ‘volgen’."
     },
     "ADVANCED": {
         "INTRO_TEXT": "Dit gedeelte bevat geavanceerde instellingen. Wijzig deze alleen als u precies weet wat u doet!",

@@ -42,6 +42,7 @@ The following (sub)keys are missing:
 |           | NETWORK         | HELP_SECURITY                       | missing |
 |           | NETWORK         | HELP_SCAN                           | missing |
 |           | NETWORK         | NOT_SET                             | missing |
+|           | REMOTE          | EXTENSION_HINT                      | missing |
 |           | ADVANCED        | WEB_PASSWORD_PLACEHOLDER            | missing |
 |           | ADVANCED        | WEB_AUTH_INFO                       | missing |
 |           | ADVANCED        | FEEDBACK_TITLE                      | missing |
@@ -124,6 +125,7 @@ The following (sub)keys are missing:
 |           | NETWORK         | HELP_SECURITY                       | missing |
 |           | NETWORK         | HELP_SCAN                           | missing |
 |           | NETWORK         | NOT_SET                             | missing |
+|           | REMOTE          | EXTENSION_HINT                      | missing |
 |           | ADVANCED        | WEB_PASSWORD_PLACEHOLDER            | missing |
 |           | ADVANCED        | WEB_AUTH_INFO                       | missing |
 |           | ADVANCED        | FEEDBACK_TITLE                      | missing |
@@ -206,6 +208,7 @@ The following (sub)keys are missing:
 |           | NETWORK         | HELP_SECURITY                       | missing |
 |           | NETWORK         | HELP_SCAN                           | missing |
 |           | NETWORK         | NOT_SET                             | missing |
+|           | REMOTE          | EXTENSION_HINT                      | missing |
 |           | ADVANCED        | WEB_PASSWORD_PLACEHOLDER            | missing |
 |           | ADVANCED        | WEB_AUTH_INFO                       | missing |
 |           | ADVANCED        | FEEDBACK_TITLE                      | missing |
@@ -288,6 +291,7 @@ The following (sub)keys are missing:
 |           | NETWORK         | HELP_SECURITY                       | missing |
 |           | NETWORK         | HELP_SCAN                           | missing |
 |           | NETWORK         | NOT_SET                             | missing |
+|           | REMOTE          | EXTENSION_HINT                      | missing |
 |           | ADVANCED        | WEB_PASSWORD_PLACEHOLDER            | missing |
 |           | ADVANCED        | WEB_AUTH_INFO                       | missing |
 |           | ADVANCED        | FEEDBACK_TITLE                      | missing |
@@ -367,6 +371,7 @@ The following (sub)keys are missing:
 |           | NETWORK         | HELP_SECURITY                       | missing |
 |           | NETWORK         | HELP_SCAN                           | missing |
 |           | NETWORK         | NOT_SET                             | missing |
+|           | REMOTE          | EXTENSION_HINT                      | missing |
 |           | ADVANCED        | WEB_PASSWORD_PLACEHOLDER            | missing |
 |           | ADVANCED        | WEB_AUTH_INFO                       | missing |
 |           | ADVANCED        | FEEDBACK_TITLE                      | missing |
@@ -541,6 +546,7 @@ The following (sub)keys are missing:
 |           | NETWORK         | HELP_SECURITY                       | missing |
 |           | NETWORK         | HELP_SCAN                           | missing |
 |           | NETWORK         | NOT_SET                             | missing |
+|           | REMOTE          | EXTENSION_HINT                      | missing |
 |           | ADVANCED        | WEB_PASSWORD_PLACEHOLDER            | missing |
 |           | ADVANCED        | WEB_AUTH_INFO                       | missing |
 |           | ADVANCED        | FEEDBACK_TITLE                      | missing |
@@ -617,6 +623,7 @@ The following (sub)keys are missing:
 |           | NETWORK         | HELP_SECURITY                       | missing |
 |           | NETWORK         | HELP_SCAN                           | missing |
 |           | NETWORK         | NOT_SET                             | missing |
+|           | REMOTE          | EXTENSION_HINT                      | missing |
 |           | ADVANCED        | WEB_PASSWORD_PLACEHOLDER            | missing |
 |           | ADVANCED        | WEB_AUTH_INFO                       | missing |
 |           | ADVANCED        | FEEDBACK_TITLE                      | missing |

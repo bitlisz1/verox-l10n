@@ -98,8 +98,7 @@
         "ROON_ZONE": "Zona Roon controllata",
         "HELP_ROON_ZONE": "Quale zona Roon deve controllare il telecomando. Assicurati di digitarla *esattamente* come appare in Roon.",
         "FOLLOW_ZONE": "Segui zona dello schermo",
-        "HELP_FOLLOW_ZONE": "Seleziona per 'seguire' la zona selezionata sullo schermo.",
-        "WARNING_EXTENSION": "Assicurati di abilitare e associare l'estensione {{.constants.GLOBAL_PROD_NAME}} in Roon!"
+        "HELP_FOLLOW_ZONE": "Seleziona per 'seguire' la zona selezionata sullo schermo."
     },
     "ADVANCED": {
         "INTRO_TEXT": "Questa sezione contiene le impostazioni avanzate. Modificale solo se sai esattamente cosa stai facendo!",
