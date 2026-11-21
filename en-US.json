@@ -189,6 +189,7 @@
         "AUTH_ERROR_SHORT": "The new password needs at least 8 characters. Nothing was changed.",
         "AUTH_ERROR_REQUIRED": "Choose a password to turn on protection. Nothing was changed.",
         "AUTH_ERROR_FAILED": "The password could not be saved. Nothing was changed.",
+        "AUTH_ERROR_TIMEOUT": "The device didn't confirm the change in time, so it may or may not have been saved. If you set a new password, try it the next time you log in; if it doesn't work, the old one still applies.",
         "WEB_CURRENT_PASSWORD_TO_DISABLE": "Enter your current password to turn protection off",
         "WEB_CURRENT_PASSWORD_TO_CHANGE": "Enter your current password to change it",
         "WEB_AUTH_OFF_REMOVES_TOKENS": "This also removes your API tokens ({n}): integrations that use them stop working."
