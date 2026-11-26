@@ -71,6 +71,7 @@ The following (sub)keys are missing:
 |           | ADVANCED        | AUTH_ERROR_SHORT                    | missing |
 |           | ADVANCED        | AUTH_ERROR_REQUIRED                 | missing |
 |           | ADVANCED        | AUTH_ERROR_FAILED                   | missing |
+|           | ADVANCED        | AUTH_ERROR_TIMEOUT                  | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_DISABLE     | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_CHANGE      | missing |
 |           | ADVANCED        | WEB_AUTH_OFF_REMOVES_TOKENS         | missing |
@@ -154,6 +155,7 @@ The following (sub)keys are missing:
 |           | ADVANCED        | AUTH_ERROR_SHORT                    | missing |
 |           | ADVANCED        | AUTH_ERROR_REQUIRED                 | missing |
 |           | ADVANCED        | AUTH_ERROR_FAILED                   | missing |
+|           | ADVANCED        | AUTH_ERROR_TIMEOUT                  | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_DISABLE     | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_CHANGE      | missing |
 |           | ADVANCED        | WEB_AUTH_OFF_REMOVES_TOKENS         | missing |
@@ -237,6 +239,7 @@ The following (sub)keys are missing:
 |           | ADVANCED        | AUTH_ERROR_SHORT                    | missing |
 |           | ADVANCED        | AUTH_ERROR_REQUIRED                 | missing |
 |           | ADVANCED        | AUTH_ERROR_FAILED                   | missing |
+|           | ADVANCED        | AUTH_ERROR_TIMEOUT                  | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_DISABLE     | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_CHANGE      | missing |
 |           | ADVANCED        | WEB_AUTH_OFF_REMOVES_TOKENS         | missing |
@@ -320,6 +323,7 @@ The following (sub)keys are missing:
 |           | ADVANCED        | AUTH_ERROR_SHORT                    | missing |
 |           | ADVANCED        | AUTH_ERROR_REQUIRED                 | missing |
 |           | ADVANCED        | AUTH_ERROR_FAILED                   | missing |
+|           | ADVANCED        | AUTH_ERROR_TIMEOUT                  | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_DISABLE     | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_CHANGE      | missing |
 |           | ADVANCED        | WEB_AUTH_OFF_REMOVES_TOKENS         | missing |
@@ -400,6 +404,7 @@ The following (sub)keys are missing:
 |           | ADVANCED        | AUTH_ERROR_SHORT                    | missing |
 |           | ADVANCED        | AUTH_ERROR_REQUIRED                 | missing |
 |           | ADVANCED        | AUTH_ERROR_FAILED                   | missing |
+|           | ADVANCED        | AUTH_ERROR_TIMEOUT                  | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_DISABLE     | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_CHANGE      | missing |
 |           | ADVANCED        | WEB_AUTH_OFF_REMOVES_TOKENS         | missing |
@@ -417,7 +422,6 @@ The following (sub)keys are missing:
 |           | LOGOUT          | TITLE_DEVICE                        | missing |
 |           | LOGOUT          | SUBTITLE                            | missing |
 |           | LOGOUT          | BUTTON_LOGIN_AGAIN                  | missing |
-|           | SERVICES        | CONVENIENCE_SWITCHING               | missing |
 |           | SERVICES        | ROONBRIDGE_ENABLED                  | missing |
 |           | SERVICES        | SERVICE_NAME                        | missing |
 |           | SERVICES        | AUDIO_OUTPUT                        | missing |
@@ -425,7 +429,6 @@ The following (sub)keys are missing:
 |           | SERVICES        | VOLUME_NONE                         | missing |
 |           | SERVICES        | VOLUME_SOFTWARE                     | missing |
 |           | SERVICES        | VOLUME_HARDWARE                     | missing |
-|           | SERVICES        | HELP_CONVENIENCE_SWITCHING          | missing |
 |           | SERVICES        | HELP_ENABLED_ROONBRIDGE             | missing |
 |           | SERVICES        | HELP_ENABLED_UPMPDCLI               | missing |
 |           | SERVICES        | HELP_SERVICE_NAME                   | missing |
@@ -575,6 +578,7 @@ The following (sub)keys are missing:
 |           | ADVANCED        | AUTH_ERROR_SHORT                    | missing |
 |           | ADVANCED        | AUTH_ERROR_REQUIRED                 | missing |
 |           | ADVANCED        | AUTH_ERROR_FAILED                   | missing |
+|           | ADVANCED        | AUTH_ERROR_TIMEOUT                  | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_DISABLE     | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_CHANGE      | missing |
 |           | ADVANCED        | WEB_AUTH_OFF_REMOVES_TOKENS         | missing |
@@ -652,6 +656,7 @@ The following (sub)keys are missing:
 |           | ADVANCED        | AUTH_ERROR_SHORT                    | missing |
 |           | ADVANCED        | AUTH_ERROR_REQUIRED                 | missing |
 |           | ADVANCED        | AUTH_ERROR_FAILED                   | missing |
+|           | ADVANCED        | AUTH_ERROR_TIMEOUT                  | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_DISABLE     | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_CHANGE      | missing |
 |           | ADVANCED        | WEB_AUTH_OFF_REMOVES_TOKENS         | missing |
@@ -669,7 +674,6 @@ The following (sub)keys are missing:
 |           | LOGOUT          | TITLE_DEVICE                        | missing |
 |           | LOGOUT          | SUBTITLE                            | missing |
 |           | LOGOUT          | BUTTON_LOGIN_AGAIN                  | missing |
-|           | SERVICES        | CONVENIENCE_SWITCHING               | missing |
 |           | SERVICES        | ROONBRIDGE_ENABLED                  | missing |
 |           | SERVICES        | SERVICE_NAME                        | missing |
 |           | SERVICES        | AUDIO_OUTPUT                        | missing |
@@ -677,7 +681,6 @@ The following (sub)keys are missing:
 |           | SERVICES        | VOLUME_NONE                         | missing |
 |           | SERVICES        | VOLUME_SOFTWARE                     | missing |
 |           | SERVICES        | VOLUME_HARDWARE                     | missing |
-|           | SERVICES        | HELP_CONVENIENCE_SWITCHING          | missing |
 |           | SERVICES        | HELP_ENABLED_ROONBRIDGE             | missing |
 |           | SERVICES        | HELP_ENABLED_UPMPDCLI               | missing |
 |           | SERVICES        | HELP_SERVICE_NAME                   | missing |
