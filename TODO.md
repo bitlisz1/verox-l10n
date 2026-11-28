@@ -8,7 +8,8 @@ The following (sub)keys are missing:
 
 | Language  | Section         | Key                                 | Issue   |
 | --------- | --------------- | ----------------------------------- | ------- |
-| **da-DK** | GENERAL         | BUTTON_OK                           | missing |
+| **da-DK** | MENU            | INTEGRATIONS                        | missing |
+|           | GENERAL         | BUTTON_OK                           | missing |
 |           | GENERAL         | BUTTON_CANCEL                       | missing |
 |           | GENERAL         | BUTTON_HOME                         | missing |
 |           | GENERAL         | OFF                                 | missing |
@@ -41,6 +42,7 @@ The following (sub)keys are missing:
 |           | NETWORK         | HELP_SECURITY                       | missing |
 |           | NETWORK         | HELP_SCAN                           | missing |
 |           | NETWORK         | NOT_SET                             | missing |
+|           | REMOTE          | EXTENSION_HINT                      | missing |
 |           | ADVANCED        | WEB_PASSWORD_PLACEHOLDER            | missing |
 |           | ADVANCED        | WEB_AUTH_INFO                       | missing |
 |           | ADVANCED        | FEEDBACK_TITLE                      | missing |
@@ -69,8 +71,10 @@ The following (sub)keys are missing:
 |           | ADVANCED        | AUTH_ERROR_SHORT                    | missing |
 |           | ADVANCED        | AUTH_ERROR_REQUIRED                 | missing |
 |           | ADVANCED        | AUTH_ERROR_FAILED                   | missing |
+|           | ADVANCED        | AUTH_ERROR_TIMEOUT                  | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_DISABLE     | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_CHANGE      | missing |
+|           | ADVANCED        | WEB_AUTH_OFF_REMOVES_TOKENS         | missing |
 |           | WELCOME         | PASSWORD_TITLE                      | missing |
 |           | WELCOME         | PASSWORD_TEXT                       | missing |
 |           | WELCOME         | PASSWORD_PLACEHOLDER                | missing |
@@ -87,7 +91,9 @@ The following (sub)keys are missing:
 |           | LOGIN           | (whole section)                     | missing |
 |           | LOGOUT          | (whole section)                     | missing |
 |           | SERVICES        | (whole section)                     | missing |
-| **de-DE** | GENERAL         | BUTTON_OK                           | missing |
+|           | INTEGRATIONS    | (whole section)                     | missing |
+| **de-DE** | MENU            | INTEGRATIONS                        | missing |
+|           | GENERAL         | BUTTON_OK                           | missing |
 |           | GENERAL         | BUTTON_CANCEL                       | missing |
 |           | GENERAL         | BUTTON_HOME                         | missing |
 |           | GENERAL         | OFF                                 | missing |
@@ -120,6 +126,7 @@ The following (sub)keys are missing:
 |           | NETWORK         | HELP_SECURITY                       | missing |
 |           | NETWORK         | HELP_SCAN                           | missing |
 |           | NETWORK         | NOT_SET                             | missing |
+|           | REMOTE          | EXTENSION_HINT                      | missing |
 |           | ADVANCED        | WEB_PASSWORD_PLACEHOLDER            | missing |
 |           | ADVANCED        | WEB_AUTH_INFO                       | missing |
 |           | ADVANCED        | FEEDBACK_TITLE                      | missing |
@@ -148,8 +155,10 @@ The following (sub)keys are missing:
 |           | ADVANCED        | AUTH_ERROR_SHORT                    | missing |
 |           | ADVANCED        | AUTH_ERROR_REQUIRED                 | missing |
 |           | ADVANCED        | AUTH_ERROR_FAILED                   | missing |
+|           | ADVANCED        | AUTH_ERROR_TIMEOUT                  | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_DISABLE     | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_CHANGE      | missing |
+|           | ADVANCED        | WEB_AUTH_OFF_REMOVES_TOKENS         | missing |
 |           | WELCOME         | PASSWORD_TITLE                      | missing |
 |           | WELCOME         | PASSWORD_TEXT                       | missing |
 |           | WELCOME         | PASSWORD_PLACEHOLDER                | missing |
@@ -166,7 +175,9 @@ The following (sub)keys are missing:
 |           | LOGIN           | (whole section)                     | missing |
 |           | LOGOUT          | (whole section)                     | missing |
 |           | SERVICES        | (whole section)                     | missing |
-| **fr-FR** | GENERAL         | BUTTON_OK                           | missing |
+|           | INTEGRATIONS    | (whole section)                     | missing |
+| **fr-FR** | MENU            | INTEGRATIONS                        | missing |
+|           | GENERAL         | BUTTON_OK                           | missing |
 |           | GENERAL         | BUTTON_CANCEL                       | missing |
 |           | GENERAL         | BUTTON_HOME                         | missing |
 |           | GENERAL         | OFF                                 | missing |
@@ -199,6 +210,7 @@ The following (sub)keys are missing:
 |           | NETWORK         | HELP_SECURITY                       | missing |
 |           | NETWORK         | HELP_SCAN                           | missing |
 |           | NETWORK         | NOT_SET                             | missing |
+|           | REMOTE          | EXTENSION_HINT                      | missing |
 |           | ADVANCED        | WEB_PASSWORD_PLACEHOLDER            | missing |
 |           | ADVANCED        | WEB_AUTH_INFO                       | missing |
 |           | ADVANCED        | FEEDBACK_TITLE                      | missing |
@@ -227,8 +239,10 @@ The following (sub)keys are missing:
 |           | ADVANCED        | AUTH_ERROR_SHORT                    | missing |
 |           | ADVANCED        | AUTH_ERROR_REQUIRED                 | missing |
 |           | ADVANCED        | AUTH_ERROR_FAILED                   | missing |
+|           | ADVANCED        | AUTH_ERROR_TIMEOUT                  | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_DISABLE     | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_CHANGE      | missing |
+|           | ADVANCED        | WEB_AUTH_OFF_REMOVES_TOKENS         | missing |
 |           | WELCOME         | PASSWORD_TITLE                      | missing |
 |           | WELCOME         | PASSWORD_TEXT                       | missing |
 |           | WELCOME         | PASSWORD_PLACEHOLDER                | missing |
@@ -245,7 +259,9 @@ The following (sub)keys are missing:
 |           | LOGIN           | (whole section)                     | missing |
 |           | LOGOUT          | (whole section)                     | missing |
 |           | SERVICES        | (whole section)                     | missing |
-| **hu-HU** | GENERAL         | BUTTON_OK                           | missing |
+|           | INTEGRATIONS    | (whole section)                     | missing |
+| **hu-HU** | MENU            | INTEGRATIONS                        | missing |
+|           | GENERAL         | BUTTON_OK                           | missing |
 |           | GENERAL         | BUTTON_CANCEL                       | missing |
 |           | GENERAL         | BUTTON_HOME                         | missing |
 |           | GENERAL         | OFF                                 | missing |
@@ -278,6 +294,7 @@ The following (sub)keys are missing:
 |           | NETWORK         | HELP_SECURITY                       | missing |
 |           | NETWORK         | HELP_SCAN                           | missing |
 |           | NETWORK         | NOT_SET                             | missing |
+|           | REMOTE          | EXTENSION_HINT                      | missing |
 |           | ADVANCED        | WEB_PASSWORD_PLACEHOLDER            | missing |
 |           | ADVANCED        | WEB_AUTH_INFO                       | missing |
 |           | ADVANCED        | FEEDBACK_TITLE                      | missing |
@@ -306,8 +323,10 @@ The following (sub)keys are missing:
 |           | ADVANCED        | AUTH_ERROR_SHORT                    | missing |
 |           | ADVANCED        | AUTH_ERROR_REQUIRED                 | missing |
 |           | ADVANCED        | AUTH_ERROR_FAILED                   | missing |
+|           | ADVANCED        | AUTH_ERROR_TIMEOUT                  | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_DISABLE     | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_CHANGE      | missing |
+|           | ADVANCED        | WEB_AUTH_OFF_REMOVES_TOKENS         | missing |
 |           | WELCOME         | PASSWORD_TITLE                      | missing |
 |           | WELCOME         | PASSWORD_TEXT                       | missing |
 |           | WELCOME         | PASSWORD_PLACEHOLDER                | missing |
@@ -324,7 +343,9 @@ The following (sub)keys are missing:
 |           | LOGIN           | (whole section)                     | missing |
 |           | LOGOUT          | (whole section)                     | missing |
 |           | SERVICES        | (whole section)                     | missing |
-| **it-IT** | GENERAL         | OFF                                 | missing |
+|           | INTEGRATIONS    | (whole section)                     | missing |
+| **it-IT** | MENU            | INTEGRATIONS                        | missing |
+|           | GENERAL         | OFF                                 | missing |
 |           | NETWORK         | ENABLING_INTERFACES                 | missing |
 |           | NETWORK         | DISABLING_INTERFACES                | missing |
 |           | NETWORK         | SCANNING                            | missing |
@@ -354,6 +375,7 @@ The following (sub)keys are missing:
 |           | NETWORK         | HELP_SECURITY                       | missing |
 |           | NETWORK         | HELP_SCAN                           | missing |
 |           | NETWORK         | NOT_SET                             | missing |
+|           | REMOTE          | EXTENSION_HINT                      | missing |
 |           | ADVANCED        | WEB_PASSWORD_PLACEHOLDER            | missing |
 |           | ADVANCED        | WEB_AUTH_INFO                       | missing |
 |           | ADVANCED        | FEEDBACK_TITLE                      | missing |
@@ -382,8 +404,10 @@ The following (sub)keys are missing:
 |           | ADVANCED        | AUTH_ERROR_SHORT                    | missing |
 |           | ADVANCED        | AUTH_ERROR_REQUIRED                 | missing |
 |           | ADVANCED        | AUTH_ERROR_FAILED                   | missing |
+|           | ADVANCED        | AUTH_ERROR_TIMEOUT                  | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_DISABLE     | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_CHANGE      | missing |
+|           | ADVANCED        | WEB_AUTH_OFF_REMOVES_TOKENS         | missing |
 |           | WELCOME         | PASSWORD_TITLE                      | missing |
 |           | WELCOME         | PASSWORD_TEXT                       | missing |
 |           | WELCOME         | PASSWORD_PLACEHOLDER                | missing |
@@ -398,7 +422,6 @@ The following (sub)keys are missing:
 |           | LOGOUT          | TITLE_DEVICE                        | missing |
 |           | LOGOUT          | SUBTITLE                            | missing |
 |           | LOGOUT          | BUTTON_LOGIN_AGAIN                  | missing |
-|           | SERVICES        | CONVENIENCE_SWITCHING               | missing |
 |           | SERVICES        | ROONBRIDGE_ENABLED                  | missing |
 |           | SERVICES        | SERVICE_NAME                        | missing |
 |           | SERVICES        | AUDIO_OUTPUT                        | missing |
@@ -406,7 +429,6 @@ The following (sub)keys are missing:
 |           | SERVICES        | VOLUME_NONE                         | missing |
 |           | SERVICES        | VOLUME_SOFTWARE                     | missing |
 |           | SERVICES        | VOLUME_HARDWARE                     | missing |
-|           | SERVICES        | HELP_CONVENIENCE_SWITCHING          | missing |
 |           | SERVICES        | HELP_ENABLED_ROONBRIDGE             | missing |
 |           | SERVICES        | HELP_ENABLED_UPMPDCLI               | missing |
 |           | SERVICES        | HELP_SERVICE_NAME                   | missing |
@@ -489,7 +511,9 @@ The following (sub)keys are missing:
 |           | SERVICES        | NAME_PLACEHOLDER                    | missing |
 |           | SERVICES        | BUTTON_SCAN                         | missing |
 |           | SERVICES        | UPNP_RENDERER_NONE                  | missing |
-| **nl-NL** | GENERAL         | BUTTON_CONTINUE                     | missing |
+|           | INTEGRATIONS    | (whole section)                     | missing |
+| **nl-NL** | MENU            | INTEGRATIONS                        | missing |
+|           | GENERAL         | BUTTON_CONTINUE                     | missing |
 |           | GENERAL         | BUTTON_OK                           | missing |
 |           | GENERAL         | BUTTON_CANCEL                       | missing |
 |           | GENERAL         | BUTTON_HOME                         | missing |
@@ -525,6 +549,7 @@ The following (sub)keys are missing:
 |           | NETWORK         | HELP_SECURITY                       | missing |
 |           | NETWORK         | HELP_SCAN                           | missing |
 |           | NETWORK         | NOT_SET                             | missing |
+|           | REMOTE          | EXTENSION_HINT                      | missing |
 |           | ADVANCED        | WEB_PASSWORD_PLACEHOLDER            | missing |
 |           | ADVANCED        | WEB_AUTH_INFO                       | missing |
 |           | ADVANCED        | FEEDBACK_TITLE                      | missing |
@@ -553,8 +578,10 @@ The following (sub)keys are missing:
 |           | ADVANCED        | AUTH_ERROR_SHORT                    | missing |
 |           | ADVANCED        | AUTH_ERROR_REQUIRED                 | missing |
 |           | ADVANCED        | AUTH_ERROR_FAILED                   | missing |
+|           | ADVANCED        | AUTH_ERROR_TIMEOUT                  | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_DISABLE     | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_CHANGE      | missing |
+|           | ADVANCED        | WEB_AUTH_OFF_REMOVES_TOKENS         | missing |
 |           | DONATE          | HEADER                              | missing |
 |           | INIT            | DONATIONS                           | missing |
 |           | WELCOME         | (whole section)                     | missing |
@@ -568,7 +595,9 @@ The following (sub)keys are missing:
 |           | LOGIN           | (whole section)                     | missing |
 |           | LOGOUT          | (whole section)                     | missing |
 |           | SERVICES        | (whole section)                     | missing |
-| **pl-PL** | GENERAL         | OFF                                 | missing |
+|           | INTEGRATIONS    | (whole section)                     | missing |
+| **pl-PL** | MENU            | INTEGRATIONS                        | missing |
+|           | GENERAL         | OFF                                 | missing |
 |           | NETWORK         | ENABLING_INTERFACES                 | missing |
 |           | NETWORK         | DISABLING_INTERFACES                | missing |
 |           | NETWORK         | SCANNING                            | missing |
@@ -598,6 +627,7 @@ The following (sub)keys are missing:
 |           | NETWORK         | HELP_SECURITY                       | missing |
 |           | NETWORK         | HELP_SCAN                           | missing |
 |           | NETWORK         | NOT_SET                             | missing |
+|           | REMOTE          | EXTENSION_HINT                      | missing |
 |           | ADVANCED        | WEB_PASSWORD_PLACEHOLDER            | missing |
 |           | ADVANCED        | WEB_AUTH_INFO                       | missing |
 |           | ADVANCED        | FEEDBACK_TITLE                      | missing |
@@ -626,8 +656,10 @@ The following (sub)keys are missing:
 |           | ADVANCED        | AUTH_ERROR_SHORT                    | missing |
 |           | ADVANCED        | AUTH_ERROR_REQUIRED                 | missing |
 |           | ADVANCED        | AUTH_ERROR_FAILED                   | missing |
+|           | ADVANCED        | AUTH_ERROR_TIMEOUT                  | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_DISABLE     | missing |
 |           | ADVANCED        | WEB_CURRENT_PASSWORD_TO_CHANGE      | missing |
+|           | ADVANCED        | WEB_AUTH_OFF_REMOVES_TOKENS         | missing |
 |           | WELCOME         | PASSWORD_TITLE                      | missing |
 |           | WELCOME         | PASSWORD_TEXT                       | missing |
 |           | WELCOME         | PASSWORD_PLACEHOLDER                | missing |
@@ -642,7 +674,6 @@ The following (sub)keys are missing:
 |           | LOGOUT          | TITLE_DEVICE                        | missing |
 |           | LOGOUT          | SUBTITLE                            | missing |
 |           | LOGOUT          | BUTTON_LOGIN_AGAIN                  | missing |
-|           | SERVICES        | CONVENIENCE_SWITCHING               | missing |
 |           | SERVICES        | ROONBRIDGE_ENABLED                  | missing |
 |           | SERVICES        | SERVICE_NAME                        | missing |
 |           | SERVICES        | AUDIO_OUTPUT                        | missing |
@@ -650,7 +681,6 @@ The following (sub)keys are missing:
 |           | SERVICES        | VOLUME_NONE                         | missing |
 |           | SERVICES        | VOLUME_SOFTWARE                     | missing |
 |           | SERVICES        | VOLUME_HARDWARE                     | missing |
-|           | SERVICES        | HELP_CONVENIENCE_SWITCHING          | missing |
 |           | SERVICES        | HELP_ENABLED_ROONBRIDGE             | missing |
 |           | SERVICES        | HELP_ENABLED_UPMPDCLI               | missing |
 |           | SERVICES        | HELP_SERVICE_NAME                   | missing |
@@ -733,3 +763,4 @@ The following (sub)keys are missing:
 |           | SERVICES        | NAME_PLACEHOLDER                    | missing |
 |           | SERVICES        | BUTTON_SCAN                         | missing |
 |           | SERVICES        | UPNP_RENDERER_NONE                  | missing |
+|           | INTEGRATIONS    | (whole section)                     | missing |

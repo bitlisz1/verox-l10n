@@ -95,8 +95,7 @@
         "ROON_ZONE": "Vezérelt Roon-zóna",
         "HELP_ROON_ZONE": "Adja meg, melyik Roon-zónát vezérelje a távirányító. A nevet *pontosan* úgy adja meg, ahogyan a Roonban szerepel.",
         "FOLLOW_ZONE": "Kijelző zónájának követése",
-        "HELP_FOLLOW_ZONE": "A távirányító kövesse a kijelzőn kiválasztott zónát.",
-        "WARNING_EXTENSION": "Győződjön meg róla, hogy a {{.constants.GLOBAL_PROD_NAME}} bővítmény engedélyezve és párosítva van a Roonban!"
+        "HELP_FOLLOW_ZONE": "A távirányító kövesse a kijelzőn kiválasztott zónát."
     },
     "ADVANCED": {
         "INTRO_TEXT": "Ez a rész speciális beállításokat tartalmaz. Csak akkor módosítsa őket, ha pontosan tudja, mit csinál!",

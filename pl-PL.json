@@ -130,8 +130,7 @@
         "HELP_ROON_ZONE": "Wybierz strefę Roon, którą chcesz sterować za pomocą pilota. Wpisz jej nazwę dokładnie tak, jak w ustawieniach Roon.",
         "FOLLOW_ZONE": "Strefa Wyświetlacza",
         "HELP_FOLLOW_ZONE": "Wybierz tę opcję, aby ustawić taką samą strefę jak w wyświetlaczu.",
-        "EXTENSION_HINT": "W Roon włącz rozszerzenie {{.constants.GLOBAL_PROD_NAME}} Remote Control dla tego urządzenia w sekcji Ustawienia → Rozszerzenia.",
-        "WARNING_EXTENSION": "Upewnij się, że rozszerzenie {{.constants.GLOBAL_PROD_NAME}} jest włączone i sparowane w ustawieniach rozszerzeń Roon!"       
+        "EXTENSION_HINT": "W Roon włącz rozszerzenie {{.constants.GLOBAL_PROD_NAME}} Remote Control dla tego urządzenia w sekcji Ustawienia → Rozszerzenia."
     },
     "ADVANCED": {
         "INTRO_TEXT": "Sekcja zawiera ustawienia zaawansowane. Zmieniaj je tylko wtedy, gdy dokładnie wiesz co robisz!",
@@ -382,7 +381,6 @@
         "PLEX_CONNECT": "Połącz konto Plex",
         "PLEX_ENTER_CODE_AT": "Wprowadź kod na stronie:",
         "PLEX_WAITING": "Oczekiwanie na autoryzację...",
-        "CONVENIENCE_SWITCHING": "Wygodne przełączanie",
         "ROONBRIDGE_ENABLED": "Roon Bridge włączony",
         "SERVICE_NAME": "Nazwa usługi",
         "AUDIO_OUTPUT": "Wyjście audio",
@@ -390,7 +388,6 @@
         "VOLUME_NONE": "Brak",
         "VOLUME_SOFTWARE": "Programowa",
         "VOLUME_HARDWARE": "Sprzętowa",
-        "HELP_CONVENIENCE_SWITCHING": "Po włączeniu uruchomienie jednej usługi automatycznie wstrzymuje inną aktualnie odtwarzającą usługę, dzięki czemu z urządzenia audio korzysta tylko jedna usługa naraz. Wyłącz tę opcję, jeśli używasz wielu usług z osobnymi przetwornikami DAC i nie chcesz, aby wzajemnie przerywały odtwarzanie.",
         "HELP_ENABLED_ROONBRIDGE": "Czy włączyć Roon Bridge?",
         "HELP_ENABLED_UPMPDCLI": "Czy włączyć punkt końcowy UPnP/DLNA?",
         "HELP_SERVICE_NAME": "Nazwa usługi. Użyj „%h” jako odwołania do nazwy hosta.",

@@ -95,8 +95,7 @@
         "ROON_ZONE": "Zone Roon à contrôler ",
         "HELP_ROON_ZONE": "La zone Roon que vous souhaitez piloter avec la télécommande. Attention à saisir son nom *exactement* comme dans Roon.",
         "FOLLOW_ZONE": "Piloter la zone affichée ",
-        "HELP_FOLLOW_ZONE": "Sélectionner pour piloter la zone affichée sur l'écran avec la télécommande.",
-        "WARNING_EXTENSION": "Veuillez vous assurer que vous avez activé et configuré l'extension {{.constants.GLOBAL_PROD_NAME}} dans Roon !"
+        "HELP_FOLLOW_ZONE": "Sélectionner pour piloter la zone affichée sur l'écran avec la télécommande."
     },
     "ADVANCED": {
         "INTRO_TEXT": "Cette section contient les réglages avancés. Ne les modifiez que si vous savez exactement ce que vous faîtes !",

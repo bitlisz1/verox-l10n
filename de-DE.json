@@ -95,8 +95,7 @@
     "ROON_ZONE": "Roon-Steuerungszone",
     "HELP_ROON_ZONE": "Welche Roon-Zone soll die Fernbedienung steuern. Stellen Sie sicher, dass Sie sie *genau* so eingeben, wie sie in Roon bekannt ist.",
     "FOLLOW_ZONE": "Display-Zone Folgen",
-    "HELP_FOLLOW_ZONE": "Wählen Sie diese Option, um der auf dem Display ausgewählten Zone zu 'folgen'.",
-    "WARNING_EXTENSION": "Bitte stellen Sie sicher, dass Sie die RoPieee-Erweiterung in Roon aktivieren und koppeln!"
+    "HELP_FOLLOW_ZONE": "Wählen Sie diese Option, um der auf dem Display ausgewählten Zone zu 'folgen'."
   },
   "ADVANCED": {
     "INTRO_TEXT": "Dieser Abschnitt enthält erweiterte Einstellungen. Ändern Sie diese nur, wenn Sie genau wissen, was Sie tun!",
