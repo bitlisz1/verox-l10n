@@ -12,7 +12,8 @@
         "ADVANCED": "Zaawansowane",
         "SERVICES": "Serwisy",
         "INFORMATION": "Informacje",
-        "DEVICES": "Urządzenia"
+        "DEVICES": "Urządzenia",
+        "INTEGRATIONS": "Integracje"
     },
     "GENERAL": {
         "BUTTON_APPLY": "Zatwierdź",
@@ -129,6 +130,7 @@
         "HELP_ROON_ZONE": "Wybierz strefę Roon, którą chcesz sterować za pomocą pilota. Wpisz jej nazwę dokładnie tak, jak w ustawieniach Roon.",
         "FOLLOW_ZONE": "Strefa Wyświetlacza",
         "HELP_FOLLOW_ZONE": "Wybierz tę opcję, aby ustawić taką samą strefę jak w wyświetlaczu.",
+        "EXTENSION_HINT": "W Roon włącz rozszerzenie {{.constants.GLOBAL_PROD_NAME}} Remote Control dla tego urządzenia w sekcji Ustawienia → Rozszerzenia.",
         "WARNING_EXTENSION": "Upewnij się, że rozszerzenie {{.constants.GLOBAL_PROD_NAME}} jest włączone i sparowane w ustawieniach rozszerzeń Roon!"       
     },
     "ADVANCED": {
@@ -189,7 +191,9 @@
         "AUTH_ERROR_REQUIRED": "Ustaw hasło, aby włączyć ochronę. Nie wprowadzono żadnych zmian.",
         "AUTH_ERROR_FAILED": "Nie udało się zapisać hasła. Nie wprowadzono żadnych zmian.",
         "WEB_CURRENT_PASSWORD_TO_DISABLE": "Wprowadź bieżące hasło, aby wyłączyć ochronę",
-        "WEB_CURRENT_PASSWORD_TO_CHANGE": "Wprowadź bieżące hasło, aby je zmienić"
+        "WEB_CURRENT_PASSWORD_TO_CHANGE": "Wprowadź bieżące hasło, aby je zmienić",
+        "AUTH_ERROR_TIMEOUT": "Urządzenie nie potwierdziło zmiany na czas, więc nie wiadomo, czy została zapisana. Jeśli ustawiono nowe hasło, spróbuj użyć go przy następnym logowaniu. Jeśli nie zadziała, nadal obowiązuje poprzednie hasło.",
+        "WEB_AUTH_OFF_REMOVES_TOKENS": "Spowoduje to również usunięcie tokenów API ({n}), z których korzystają integracje; przestaną one działać."
     },
     "INFO": {
         "INTRO_TEXT": "Sekcja zawiera informacje o {{.constants.GLOBAL_PROD_NAME}}.",
@@ -325,6 +329,38 @@
         "TITLE_DEVICE": "Wylogowano z %h",
         "SUBTITLE": "Możesz zamknąć tę stronę lub zalogować się ponownie.",
         "BUTTON_LOGIN_AGAIN": "Zaloguj się ponownie"
+    },
+    "INTEGRATIONS": {
+        "INTRO_TEXT": "Tokeny API pozwalają innym programom, takim jak Home Assistant lub własne skrypty, sterować {{.constants.GLOBAL_PROD_NAME}} przez sieć.",
+        "API_LEVEL": "To urządzenie obsługuje poziom API",
+        "API_DOCS": "Opis funkcji dostępnych na poszczególnych poziomach",
+        "LOGIN_REQUIRED": "Tokeny API działają tylko wtedy, gdy strona jest chroniona hasłem. Najpierw ustaw hasło na stronie Zaawansowane.",
+        "TOKENS": "Tokeny",
+        "NO_TOKENS": "Nie utworzono jeszcze żadnych tokenów",
+        "ERROR_LIST": "Nie udało się wczytać tokenów.",
+        "COLUMN_NAME": "Nazwa",
+        "COLUMN_TOKEN": "Token",
+        "COLUMN_ACCESS": "Dostęp",
+        "COLUMN_CREATED": "Utworzono",
+        "COLUMN_LAST_USED": "Ostatnie użycie",
+        "NEVER_USED": "Nigdy",
+        "NEW_TOKEN_NAME": "Nazwa nowego tokenu",
+        "TOKEN_NAME_PLACEHOLDER": "np. Home Assistant",
+        "ADMIN_ACCESS": "Nowy token otrzyma uprawnienia administratora, które obecnie pozwalają mu ponownie uruchomić to urządzenie.",
+        "BUTTON_CREATE": "Utwórz token",
+        "NEW_TOKEN": "Twój nowy token",
+        "NEW_TOKEN_ONCE": "Skopiuj go teraz i przechowaj w bezpiecznym miejscu — później nie będzie już wyświetlany.",
+        "BUTTON_COPY": "Kopiuj",
+        "COPIED": "Skopiowano",
+        "BUTTON_REVOKE": "Unieważnij",
+        "REVOKE_TITLE": "Unieważnij token",
+        "REVOKE_CONFIRM": "Wszystko, co korzysta z tego tokenu, natychmiast przestanie działać.",
+        "HOW_TO_USE_TEXT": "Przekaż token w nagłówku Authorization żądania do API na porcie 8080. Na przykład, aby ponownie uruchomić to urządzenie:",
+        "PLAIN_HTTP": "Token jest przesyłany bez szyfrowania, dlatego używaj go tylko w zaufanej sieci.",
+        "ERROR_NAME": "Nazwa tokenu może mieć maksymalnie 64 znaki. Nie utworzono tokenu.",
+        "ERROR_TOO_MANY": "To urządzenie ma już maksymalną liczbę 20 tokenów. Najpierw unieważnij jeden z nich.",
+        "ERROR_LOGIN_OFF": "Strona nie jest już chroniona hasłem, dlatego nie utworzono tokenu.",
+        "ERROR_FAILED": "Wystąpił błąd. Nie wprowadzono żadnych zmian."
     },
     "SERVICES": {
         "INTRO_ROONBRIDGE": "Odtwarzaj muzykę z Roon na tym urządzeniu.",
